@@ -14,5 +14,5 @@ Nova consists of **five main projects**:
 
 ## 🛠️ Organization Members
 
-👤 @Sagbyy
-👤 @madoxSio  
+👤 [@Sagbyy](https://www.github.com/Sagbyy)
+👤 [@madoxSio](https://www.github.com/madoxSio)
